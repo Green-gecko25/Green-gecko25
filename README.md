@@ -6,4 +6,5 @@ I aim to build connections with others to get small jobs here and there, basical
 Also right now I'm only using HTML and CSS, right now I'm mainly using thoes for building websites. !
 
 ![Programming](https://github.com/Green-gecko25/Green-gecko25/assets/153469411/9b8ebf88-f5bc-4730-902e-7e35d5820ab0)
-I will learn Java-Script but obviously that will take time (┬┬﹏┬┬)
+I will learn Java-Script but obviously that will take time 
+(┬┬﹏┬┬)
