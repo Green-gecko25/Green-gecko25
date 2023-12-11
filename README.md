@@ -1,5 +1,5 @@
 Hi I'm green-gecko! 
-I am a 17 year old high school student junior aiming to get a job in Web Development.
+
 I'm extremely new to Git-Hub and Webdevelopment in General. 
 I'm out here to post all of my projects, and encahance my Portfolio. 🗃️🗄️
 I aim to build connections with others to get small jobs here and there, basically being a freelance Web Developer for some cash.  🙂👌💵
